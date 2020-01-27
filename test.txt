@@ -1,1 +1,1 @@
-my first gittext
+my first text file
